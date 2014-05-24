@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/.classpath
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/compile.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/pom.xml
+END
+exec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/exec.sh
+END

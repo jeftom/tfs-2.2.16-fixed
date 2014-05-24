@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/sql/rcs
+END
+create_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/sql/rcs/create_table.sql
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/sql/rcs/Makefile.am
+END
+rc_test_info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/sql/rcs/rc_test_info.sql
+END

@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message
+END
+file_info_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/file_info_message.cpp
+END
+rts_ms_heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rts_ms_heart_message.cpp
+END
+rollback_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rollback_message.h
+END
+unlink_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/unlink_file_message.cpp
+END
+compact_block_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/compact_block_message.cpp
+END
+client_cmd_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/client_cmd_message.cpp
+END
+dataserver_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/dataserver_message.h
+END
+reload_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/reload_message.cpp
+END
+rename_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rename_file_message.cpp
+END
+message_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/message_factory.cpp
+END
+heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/heart_message.h
+END
+create_filename_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/create_filename_message.h
+END
+read_data_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/read_data_message.h
+END
+server_status_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/server_status_message.cpp
+END
+get_dataserver_information_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/get_dataserver_information_message.h
+END
+checkserver_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/checkserver_message.h
+END
+close_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/close_file_message.h
+END
+block_info_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/block_info_message.h
+END
+oplog_sync_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/oplog_sync_message.cpp
+END
+rc_session_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rc_session_message.h
+END
+admin_cmd_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/admin_cmd_message.h
+END
+meta_nameserver_client_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/meta_nameserver_client_message.h
+END
+replicate_block_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/replicate_block_message.cpp
+END
+rts_rts_heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rts_rts_heart_message.cpp
+END
+get_tables_from_rts_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/get_tables_from_rts_message.cpp
+END
+dump_plan_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/dump_plan_message.h
+END
+crc_error_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/crc_error_message.h
+END
+write_data_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/write_data_message.h
+END
+rollback_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rollback_message.cpp
+END
+update_table_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/update_table_message.h
+END
+file_info_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/file_info_message.h
+END
+rts_ms_heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rts_ms_heart_message.h
+END
+dataserver_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/dataserver_message.cpp
+END
+base_task_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/base_task_message.h
+END
+heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/heart_message.cpp
+END
+create_filename_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/create_filename_message.cpp
+END
+get_dataserver_information_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/get_dataserver_information_message.cpp
+END
+checkserver_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/checkserver_message.cpp
+END
+close_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/close_file_message.cpp
+END
+read_data_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/read_data_message.cpp
+END
+unlink_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/unlink_file_message.h
+END
+block_info_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/block_info_message.cpp
+END
+compact_block_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/compact_block_message.h
+END
+client_cmd_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/client_cmd_message.h
+END
+rc_session_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rc_session_message.cpp
+END
+admin_cmd_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/admin_cmd_message.cpp
+END
+meta_nameserver_client_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/meta_nameserver_client_message.cpp
+END
+reload_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/reload_message.h
+END
+rename_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rename_file_message.h
+END
+message_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/message_factory.h
+END
+server_status_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/server_status_message.h
+END
+dump_plan_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/dump_plan_message.cpp
+END
+crc_error_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/crc_error_message.cpp
+END
+oplog_sync_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/oplog_sync_message.h
+END
+write_data_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/write_data_message.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/Makefile.am
+END
+replicate_block_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/replicate_block_message.h
+END
+rts_rts_heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/rts_rts_heart_message.h
+END
+get_tables_from_rts_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/get_tables_from_rts_message.h
+END
+update_table_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/message/update_table_message.cpp
+END

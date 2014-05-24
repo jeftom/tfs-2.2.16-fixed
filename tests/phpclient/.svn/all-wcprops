@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/phpclient
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/phpclient/test.php
+END
+test_meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/phpclient/test_meta.php
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/phpclient/run.sh
+END

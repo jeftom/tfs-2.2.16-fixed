@@ -1,0 +1,101 @@
+10
+
+dir
+2939
+http://code.taobao.org/svn/tfs/tags/release-2.2.16/src
+http://code.taobao.org/svn/tfs
+
+
+
+2013-08-06T12:12:05.760934Z
+2470
+linqing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b722c2b5-6a69-4643-bcd1-1a75825fa998
+
+adminserver
+dir
+
+dataserver
+dir
+
+tools
+dir
+
+checkserver
+dir
+
+message
+dir
+
+phpclient
+dir
+
+monitor
+dir
+
+nameserver
+dir
+
+new_client
+dir
+
+common
+dir
+
+Makefile.am
+file
+
+
+
+
+2014-05-24T09:59:08.000000Z
+2e3fd008854bc3759922b4681d686cb0
+2012-05-04T06:25:18.078061Z
+1417
+linqing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+159
+
+rootserver
+dir
+
+rcserver
+dir
+
+name_meta_server
+dir
+

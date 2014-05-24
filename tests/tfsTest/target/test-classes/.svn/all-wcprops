@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes
+END
+deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/deployer.xml
+END
+tfsServer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/tfsServer.xml
+END
+tfsClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/tfsClient.xml
+END

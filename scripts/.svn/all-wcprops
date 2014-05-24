@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts
+END
+start_sync_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/start_sync_log.sh
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/sync.sh
+END
+tfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/tfs.sh
+END
+stfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/stfs.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/Makefile.am
+END
+cs_sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/cs_sync.sh
+END
+compact_process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/compact_process.sh
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha
+END
+ha.cf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/ha.cf
+END
+ns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/ns.xml
+END
+nsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/nsdep.sh
+END
+rs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/rs.xml
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/deploy.sh
+END
+authkeys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/authkeys.sh
+END
+rsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/rsdep.sh
+END
+NameServer
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/NameServer
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/Makefile.am
+END
+RootServer
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/scripts/ha/RootServer
+END

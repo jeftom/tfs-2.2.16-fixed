@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client
+END
+test_gc_worker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_gc_worker.cpp
+END
+test_local_key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_local_key.cpp
+END
+test_lru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_lru.cpp
+END
+test_ns_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_ns_cache.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/Makefile.am
+END
+test_rc_save_fetch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_rc_save_fetch.cpp
+END
+test_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/new_client/test_path.cpp
+END

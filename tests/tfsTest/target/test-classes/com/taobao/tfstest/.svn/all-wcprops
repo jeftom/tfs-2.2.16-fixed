@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest
+END
+Function_ds.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/Function_ds.class
+END
+FunctionBaseCase.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/FunctionBaseCase.class
+END
+FunctionLargeFileRWD.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/FunctionLargeFileRWD.class
+END
+FailOverBaseCase.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/FailOverBaseCase.class
+END
+Function_test.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/Function_test.class
+END
+FailoverDsTestCase.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/target/test-classes/com/taobao/tfstest/FailoverDsTestCase.class
+END

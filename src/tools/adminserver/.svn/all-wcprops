@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/adminserver
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/adminserver/Makefile.am
+END
+adminservertool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/adminserver/adminservertool.cpp
+END

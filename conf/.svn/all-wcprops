@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf
+END
+ns.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/ns.conf
+END
+rc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/rc.conf
+END
+rs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/rs.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/Makefile.am
+END
+cs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/cs.conf
+END
+remote_block_cache_tool.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/remote_block_cache_tool.conf
+END
+ds.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/ds.conf
+END
+meta.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/meta.conf
+END
+ads.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/conf/ads.conf
+END

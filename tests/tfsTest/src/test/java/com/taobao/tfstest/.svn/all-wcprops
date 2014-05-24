@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest
+END
+Function_ns_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_ns_test.java
+END
+Function_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_test.java
+END
+Function_ns_added_since_133_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_ns_added_since_133_test.java
+END
+FailOverBaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest/FailOverBaseCase.java
+END
+Failover_ha_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/tests/tfsTest/src/test/java/com/taobao/tfstest/Failover_ha_test.java
+END

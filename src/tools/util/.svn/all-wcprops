@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util
+END
+tool_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util/tool_util.h
+END
+ds_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util/ds_lib.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util/Makefile.am
+END
+tool_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util/tool_util.cpp
+END
+ds_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/tools/util/ds_lib.cpp
+END

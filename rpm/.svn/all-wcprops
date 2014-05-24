@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/rpm
+END
+tfs-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/rpm/tfs-build.sh
+END
+tfs-VER.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/rpm/tfs-VER.txt
+END
+tfs.spec
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/rpm/tfs.spec
+END

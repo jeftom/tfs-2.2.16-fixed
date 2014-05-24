@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor
+END
+ha_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/ha_monitor.cpp
+END
+cibrsc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/cibrsc.xml
+END
+NameServer
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/NameServer
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/test.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/README
+END
+ns_ping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/2475/tags/release-2.2.16/src/monitor/ns_ping.cpp
+END
